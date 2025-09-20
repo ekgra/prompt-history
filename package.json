@@ -1,0 +1,8 @@
+{
+  "name": "prompt-history",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}
+

@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/prompteditor.tsx","./src/lib/autosave.ts","./src/lib/db.ts","./vite-env.d.ts"],"version":"5.9.2"}
